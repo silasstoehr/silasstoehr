@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,50:1e3a8a,100:0ea5e9&text=Silas%20St%C3%B6hr&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Computer%20Science%20%C2%B7%20Web%20Development%20%C2%B7%20Machine%20Learning&descSize=18&descAlignY=58" alt="Silas Stöhr – Computer Science, Web Development, Machine Learning" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,50:1e3a8a,100:0ea5e9&text=Silas%20Noah%20St%C3%B6hr&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Computer%20Science%20%C2%B7%20Web%20Development%20%C2%B7%20Machine%20Learning&descSize=18&descAlignY=58" alt="Silas Noah Stöhr – Computer Science, Web Development, Machine Learning" />
 
 <a href="https://github.com/silasstoehr/silasstoehr">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1800&color=0EA5E9&center=true&vCenter=true&width=640&height=40&lines=B.Sc.+Computer+Science+%40+TH+Ulm;Certified+application+developer+(IHK);Offline-first+web+apps+with+Vue+%26+Nuxt;Deep+learning+%26+computer+vision;Freelance+web+developer+since+2024" alt="Typing animation" />
