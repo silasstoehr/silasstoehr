@@ -84,6 +84,8 @@ My approach: create real value instead of just typing code. I like to bring tech
 
 <div align="center">
 
+Thanks for stopping by! ✌🏼
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0ea5e9,50:1e3a8a,100:0f172a&section=footer" alt="" />
 
 </div>
