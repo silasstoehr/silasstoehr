@@ -80,8 +80,6 @@ My approach: create real value instead of just typing code. I like to bring tech
 
 </div>
 
-**Also:** TYPO3 (Extbase, Fluid) · Vitest · Jira · Confluence · Bitbucket · DDEV · Scrum · CRISP-DM · REST APIs · GDPR-compliant web development
-
 ---
 
 <div align="center">
