@@ -19,11 +19,11 @@
 
 ## 👋 About
 
-I'm a software developer at heart, trained as a certified application developer (IHK) and now studying computer science in Ulm, with an eye on where the field is heading.
+I'm a software developer and computer science student at **TH Ulm**, with a background as a **certified application developer (IHK)** and three years of agency experience in TYPO3 and PHP. Since 2024 I've also worked as a freelance web developer, building and shipping websites for small businesses, associations and NGOs in Germany, Switzerland and India.
 
-My expertise is web development, which I do freelance for businesses, alongside my academic focus on **AI & Data Science** and **Mobile Computing** (app, web, IoT). My philosophy is simple: create real value instead of just typing code.
+My focus is on **fast, accessible, well-structured web applications**. Alongside that, my studies take me into **AI & Data Science** and **Mobile Computing** (app, web, IoT), with a growing interest in machine learning and computer vision.
 
-From my earlier volunteer work I bring problem-solving skills, communication and team spirit, which I put to use in technical teams. My goal is to connect technology with user needs and to think digital products through as a whole.
+My approach: create real value instead of just typing code. I like to bring technology and user needs together and to think digital products through as a whole.
 
 <table>
 <tr>
