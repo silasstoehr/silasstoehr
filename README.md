@@ -19,9 +19,11 @@
 
 ## 👋 About
 
-I'm a computer science student at **TH Ulm** and a **certified application developer (IHK)** with three years of agency experience in TYPO3 and PHP. Since 2024 I've also worked as a freelance web developer, building and shipping websites for small businesses, associations and NGOs in Germany, Switzerland and India.
+I'm a software developer at heart, trained as a certified application developer (IHK) and now studying computer science in Ulm, with an eye on where the field is heading.
 
-My focus is on **fast, accessible, well-structured web applications**, and since my studies increasingly on **machine learning and computer vision**.
+My expertise is web development, which I do freelance for businesses, alongside my academic focus on **AI & Data Science** and **Mobile Computing** (app, web, IoT). My philosophy is simple: create real value instead of just typing code.
+
+From my earlier volunteer work I bring problem-solving skills, communication and team spirit, which I put to use in technical teams. My goal is to connect technology with user needs and to think digital products through as a whole.
 
 <table>
 <tr>
@@ -30,8 +32,7 @@ My focus is on **fast, accessible, well-structured web applications**, and since
 🎓 **Studying** B.Sc. Computer Science, focus on AI & Data Science and Mobile Computing<br/>
 🔨 **Building** [PureRep](https://purerep.de), an offline-first fitness tracking PWA<br/>
 🧠 **Learning** Deep Learning for Computer Vision, IoT<br/>
-📍 **Based in** Ulm, Germany<br/>
-🔎 **Looking for** a 6-month mandatory internship (software / ML) starting mid-May 2027
+📍 **Based in** Ulm, Germany
 
 </td>
 </tr>
@@ -46,7 +47,7 @@ My focus is on **fast, accessible, well-structured web applications**, and since
 | 🏋️ | **[PureRep](https://purerep.de)** | Full-stack training app (closed beta) with statistical analysis of workouts: moving-window time series, linear regression, estimated 1RM and plateau detection. Offline-first PWA covered by unit tests. | ![Vue](https://img.shields.io/badge/-Nuxt-00DC82?logo=nuxt&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) ![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?logo=vitest&logoColor=white) |
 | 🧪 | **[Image Compression Lab](https://lab.silasstoehr.com)** | Data science report on the trade-off between file size and image quality: K-Means colour reduction vs. a residual autoencoder with VGG-19 perceptual loss, benchmarked with PSNR and SSIM. Published as an interactive online report. | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white) |
 | 🌐 | **[Freelance Web Projects](https://silasstoehr.com)** | Concept, development and deployment of 9+ customer websites, with a focus on load time, usability and search visibility. | ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs&logoColor=white) ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) |
-| 🔌 | **TYPO3 CDN Extension** | IHK final project: a TYPO3 extension for privacy-compliant CDN integration (PHP, Extbase, Fluid). Graded 95/100. | ![TYPO3](https://img.shields.io/badge/-TYPO3-FF8700?logo=typo3&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) |
+| 🔌 | **TYPO3 CDN Extension** | IHK final project: a TYPO3 extension for privacy-compliant CDN integration (PHP, Extbase, Fluid). | ![TYPO3](https://img.shields.io/badge/-TYPO3-FF8700?logo=typo3&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) |
 
 ---
 
@@ -83,34 +84,7 @@ My focus is on **fast, accessible, well-structured web applications**, and since
 
 ---
 
-## 🧭 Career Path
-
-```text
-10/2024 – today   B.Sc. Computer Science · TH Ulm
-08/2024 – today   Freelance Web Developer · self-employed
-09/2020 – 07/2023 Application Developer (IHK) · Medienpalast Allgäu, TYPO3 / PHP
-```
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
-
-<a href="https://github.com/silasstoehr">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=silasstoehr&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&count_private=true" alt="GitHub stats" />
-</a>
-<a href="https://github.com/silasstoehr">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silasstoehr&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=0ea5e9" alt="Most used languages" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-**Let's talk** · [silasstoehr.com](https://silasstoehr.com) · [LinkedIn](https://linkedin.com/in/silasstoehr) · [info@silasstoehr.com](mailto:info@silasstoehr.com)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0ea5e9,50:1e3a8a,100:0f172a&section=footer" alt="" />
 
